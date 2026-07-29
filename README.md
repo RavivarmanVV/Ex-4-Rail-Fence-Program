@@ -81,7 +81,7 @@ int main()
 }
 ```
 # OUTPUT
-<img width="1917" height="857" alt="image" src="https://github.com/user-attachments/assets/da2d096c-88ad-4deb-8397-f6ea79cb95d1" />
+<img width="1390" height="710" alt="image" src="https://github.com/user-attachments/assets/5c99c899-e42c-44c3-b393-54091a96ad03" />
 
 # RESULT
 Thus, the C program to implement the Rail Fence – Row & Column Transformation Technique was successfully executed, and the corresponding ciphertext was generated.
